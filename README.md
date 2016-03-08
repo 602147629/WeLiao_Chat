@@ -1,2 +1,2 @@
 # WeLiao_Chat
-使用TcpClient、TcpListener实现Socket简易聊天工具 
+使用C#封装的TcpListener、TcpClient以及NetworkStream实现Socket简易聊天工具 
