@@ -1,4 +1,0 @@
-C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Commom\bin\Debug\WeLiao_Commom.dll
-C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Commom\bin\Debug\WeLiao_Commom.pdb
-C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Commom\obj\Debug\WeLiao_Commom.dll
-C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Commom\obj\Debug\WeLiao_Commom.pdb
