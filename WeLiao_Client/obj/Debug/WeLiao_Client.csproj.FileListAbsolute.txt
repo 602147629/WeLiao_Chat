@@ -1,0 +1,11 @@
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\bin\Debug\WeLiao_Client.exe.config
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\bin\Debug\WeLiao_Client.exe
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\bin\Debug\WeLiao_Client.pdb
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\bin\Debug\WeLiao_Commom.dll
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\bin\Debug\WeLiao_Commom.pdb
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\obj\Debug\WeLiao_Client.csprojResolveAssemblyReference.cache
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\obj\Debug\WeLiao_Client.Properties.Resources.resources
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\obj\Debug\WeLiao_Client.WeLiaoClient.resources
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\obj\Debug\WeLiao_Client.csproj.GenerateResource.Cache
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\obj\Debug\WeLiao_Client.exe
+C:\Users\yanglb\Desktop\新建文件夹\WeLiao_Client\obj\Debug\WeLiao_Client.pdb
